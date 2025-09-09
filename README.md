@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Amari
 
-<!--
-**ScriptedByAmari/ScriptedByAmari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IT Support | Aspiring TechOps & Infrastructure Specialist**  
+📜 Microsoft Certified (AZ-900) | CompTIA Network+  
+🛠 Currently building skills in scripting, automation & system-level workflows
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Learning Logs
+
+- **🧠 Learning PowerShell** – Scripts, notes, and command breakdowns as I level up my automation skills  
+- **📓 TechOps Learning Log** – Markdown-based notes on scripting, troubleshooting, infrastructure, and cloud concepts  
+- **🛠 Framework Laptop Build** – From unboxing to dual-boot (Windows + Ubuntu), BIOS config, and project reflections  
+
+---
+
+## 🔧 Skills & Focus Areas
+- **Scripting**: PowerShell, Bash, Python (early stage)  
+- **Tools**: Windows, Ubuntu, GitHub, Azure, Command Line  
+- **Focus**: TechOps • Infrastructure • Automation • Cloud Fundamentals
+
+---
+
+## 🌱 Currently Learning
+- PowerShell scripting fundamentals  
+- Bash/Linux CLI workflows  
+- Azure identity, management, and automation concepts  
