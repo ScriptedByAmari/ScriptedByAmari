@@ -8,9 +8,9 @@
 
 ## 🚀 Projects & Learning Logs
 
+- **🛠 Framework Laptop Build** – From unboxing to dual-boot (Windows + Ubuntu), BIOS config, and project reflections
 - **🧠 Learning PowerShell** – Scripts, notes, and command breakdowns as I level up my automation skills  
 - **📓 TechOps Learning Log** – Markdown-based notes on scripting, troubleshooting, infrastructure, and cloud concepts  
-- **🛠 Framework Laptop Build** – From unboxing to dual-boot (Windows + Ubuntu), BIOS config, and project reflections  
 
 ---
 
