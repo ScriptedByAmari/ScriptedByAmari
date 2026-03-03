@@ -1,21 +1,23 @@
 # 👋 Hi, I'm Amari
 
-💻 **IT Support | Aspiring TechOps & Infrastructure Specialist**  
+This GitHub is a living log of applied learning for Endpoint / IT Ops / Cloud Support roles — focused on documentation, troubleshooting, and automation.
+
+💻 **T Operations & Endpoint Support | Modern Workplace • Identity • Automation**  
 📜 Microsoft Certified (AZ-900) | CompTIA Network+  
-🛠 Currently building skills in scripting, automation & system-level workflows
+🛠 Building practical scripting and operational workflows (PowerShell/Bash) for cloud-connected environments
 
 ---
 
 ## 🚀 Projects & Learning Logs
 
-- **🛠 Framework Laptop Build** – From unboxing to dual-boot (Windows + Ubuntu), BIOS config, and project reflections
+- **🛠 Framework Laptop Build** – Dual-boot (Windows 11 + Ubuntu), BIOS configuration, partitioning strategy, OS configuration, and documented troubleshooting decisions
 - **🧠 Learning PowerShell** – Scripts, notes, and command breakdowns as I level up my automation skills  
 - **📓 TechOps Learning Log** – Markdown-based notes on scripting, troubleshooting, infrastructure, and cloud concepts  
 
 ---
 
 ## 🔧 Skills & Focus Areas
-- **Scripting**: PowerShell, Bash, Python (early stage)  
+- **Scripting**: PowerShell • Bash • Python (foundational) 
 - **Tools**: Windows, Ubuntu, GitHub, Azure, Command Line  
 - **Focus**: TechOps • Infrastructure • Automation • Cloud Fundamentals
 
