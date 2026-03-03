@@ -2,7 +2,7 @@
 
 This GitHub is a living log of applied learning for Endpoint / IT Ops / Cloud Support roles — focused on documentation, troubleshooting, and automation.
 
-💻 **T Operations & Endpoint Support | Modern Workplace • Identity • Automation**  
+💻 **IT Operations & Endpoint Support | Modern Workplace • Identity • Automation**  
 📜 Microsoft Certified (AZ-900) | CompTIA Network+  
 🛠 Building practical scripting and operational workflows (PowerShell/Bash) for cloud-connected environments
 
