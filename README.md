@@ -24,6 +24,6 @@ This GitHub is a living log of applied learning for Endpoint / IT Ops / Cloud Su
 ---
 
 ## 🌱 Currently Learning
+- Azure identity and access management (Microsoft Entra- Applied Skill validated)  
 - PowerShell scripting fundamentals  
 - Bash/Linux CLI workflows  
-- Azure identity, management, and automation concepts  
